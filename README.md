@@ -11,9 +11,12 @@ enable Dev Tools on your Android :) </h3>
 <p align="center">
 
      Go to Code.js file 
+<img src="./IMG_20220114_192546.jpg">
+
 
 
      Copy the code there 
+<img src="./IMG_20220114_192520.jpg">
 
 
      
@@ -58,7 +61,6 @@ enable Dev Tools on your Android :) </h3>
 
 
 
-   
-
-
-   
+    
+           <Happy Coding ❤️\>
+    
