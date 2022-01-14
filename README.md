@@ -16,35 +16,46 @@ enable Dev Tools on your Android :) </h3>
      Copy the code there 
 
 
-     Go to ur chrome browser home page
+     
+    
+     Go to ur chrome browser home page & Click on three dots 
+     
+<img src="./IMG_20220114_112753.jpg">
+<hr>
+     
+      Click on Star { bookmark }
+<img src="./IMG_20220114_112846.jpg">
+<hr>
+     
+      Click on 'Edit bookmark'
+<img src="./IMG_20220114_113653.jpg">
+<hr>
+
+      Paste the code there With name " Dev Tools "
+<img src="./IMG_20220114_113731.jpg">
+<hr>
+
+      Now go to any website & Click on search bar
+<img src="./IMG_20220114_113808.jpg">
+<hr>
+
+       write Dev tools there 
+<img src="./IMG_20220114_113912.jpg">
+<hr>
+
+      U will see Dev tools bookmark in suggestions 
+<br>
 
      
-     Click on three dots 
+    Click on it , A small tool will appear in the corner
 
-     
-     Click on Star { bookmark }
+<img src="./IMG_20220114_113944.jpg">
+<hr>
 
-     Click on 'Edit bookmark'
+      Press it & U will see the Dev Tools
+ <img src="./IMG_20220114_113957.jpg">
+<hr>
 
-     Paste the code there With name " Dev Tools "
-
-
-     Now go to any website 
-
-     Click on search bar 
-
-     write Dev tools there 
-
-     U will see Dev tools bookmark in suggestions
-
-     Click on it 
-  
-     A small tool will appear in the corner
-
-     Press it & U will see the Dev Tools 
-
-
-</p>
 
 
    
